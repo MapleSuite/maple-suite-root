@@ -18,7 +18,6 @@ This is the **central hub** for the entire Maple Suite ecosystem — a place to 
 | Module / Repo  | Purpose                                                                |
 | -------------- | ---------------------------------------------------------------------- |
 | `canoogle`     | Unbiased search engine frontend                                        |
-| `syrup-engine` | S.Y.R.U.P. (Search Yielding Relevant & Unbiased Pages) backend         |
 | `maple-legacy` | Inheritance system with time-locks, vaults, and authentication modules |
 | `gft`          | Guard For Thee – server-side integrity & enforcement                   |
 | `ztstamp`      | ZEUS-Time-powered timestamping tool                                    |
@@ -39,15 +38,16 @@ This is the **central hub** for the entire Maple Suite ecosystem — a place to 
 
 ## 🍁 Maple Apps Ecosystem (Productivity Suite)
 
-| Module / Repo | Purpose                                         |
-| ------------- | ----------------------------------------------- |
-| `maple-mail`  | Branded mail service & alias relay              |
-| `maple-pages` | Document editing / collaboration platform       |
-| `maple-vault` | Secure cloud-based storage                      |
-| `maple-time`  | Calendar & scheduling system                    |
-| `maple-forms` | Form builder platform                           |
-| `maple-book`  | Contact manager                                 |
-| `maple-talk`  | Secure chat and video (e.g., Jitsi integration) |
+| Module / Repo   | Purpose                                         |
+| --------------- | ----------------------------------------------- |
+| `maple-mail`    | Branded mail service & alias relay              |
+| `maple-pages`   | Document editing / collaboration platform       |
+| `maple-vault`   | Secure cloud-based storage                      |
+| `maple-time`    | Calendar & scheduling system                    |
+| `maple-forms`   | Form builder platform                           |
+| `maple-book`    | Contact manager                                 |
+| `maple-talk`    | Secure chat and video                           |
+| `maple-stream`  | Digital entertainment and streaming platform    |
 
 ---
 
