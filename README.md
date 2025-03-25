@@ -4,7 +4,8 @@
 <p align="center">
   <img src="assets/mlogo.png" width="512" alt="Maple Suite Logo">
 </p>
-> **Preserve What Matters. Build for Tomorrow.**
+
+> **Stand on Guard for Thee. Preserve What Matters. Build for Tomorrow.**
 
 Maple Suite is a Canadian-built, privacy-first ecosystem of digital tools designed to empower users with secure alternatives to mainstream platforms. Whether you're searching, storing, signing, or safeguarding your legacy — Maple Suite gives you control, clarity, and cryptographic confidence.
 
