@@ -1,14 +1,14 @@
-# � Maple Suite Root
+# 🍁 Maple Suite Root
 
 > **Preserve What Matters. Build for Tomorrow.**
 
 Maple Suite is a Canadian-built, privacy-first ecosystem of digital tools designed to empower users with secure alternatives to mainstream platforms. Whether you're searching, storing, signing, or safeguarding your legacy — Maple Suite gives you control, clarity, and cryptographic confidence.
 
-This is the **central hub** for the entire Maple Suite ecosystem — a place to track modules, explore tools, and watch the tree grow. �
+This is the **central hub** for the entire Maple Suite ecosystem — a place to track modules, explore tools, and watch the tree grow.  🌳
 
 ---
 
-## � Root Modules (Live or In Progress)
+## 🔧 Root Modules (Live or In Progress)
 
 | Module / Repo  | Purpose                                                                |
 | -------------- | ---------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ This is the **central hub** for the entire Maple Suite ecosystem — a place to 
 
 ---
 
-## � Utility Tools (Instant Access)
+## 🌿 Utility Tools (Instant Access)
 
 | Module / Repo     | Purpose                        |
 | ----------------- | ------------------------------ |
@@ -32,7 +32,7 @@ This is the **central hub** for the entire Maple Suite ecosystem — a place to 
 
 ---
 
-## � Maple Apps Ecosystem (Productivity Suite)
+## 🍁 Maple Apps Ecosystem (Productivity Suite)
 
 | Module / Repo | Purpose                                         |
 | ------------- | ----------------------------------------------- |
@@ -46,7 +46,7 @@ This is the **central hub** for the entire Maple Suite ecosystem — a place to 
 
 ---
 
-## � Docs & Philosophy
+## 📚 Docs & Philosophy
 
 All docs are housed at [https://maplesuite.life](https://maplesuite.life) – GitBook pages coming soon.
 
@@ -57,14 +57,14 @@ All docs are housed at [https://maplesuite.life](https://maplesuite.life) – Gi
 
 ---
 
-## � License
+## 📜 License
 
 All modules will be released under privacy-first open-source licenses, or dual-licensed for public & commercial use (as applicable).
 
 ---
 
-## � Status
+## 🚧  Status
 
 Maple Suite is in active alpha development.
-You're witnessing the roots grow — the tree is just beginning. �
+You're witnessing the roots grow — the tree is just beginning. 🍁
 
